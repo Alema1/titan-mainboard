@@ -1,0 +1,1000 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist sketch="TITAN routing board.fzz" date="qua nov 7 04:20:59 2018">
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185971" title="Via" label="Via29"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185970" title="Via" label="Via29"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185450" title="Via" label="Via25"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185451" title="Via" label="Via25"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185221" title="Via" label="Via22"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185220" title="Via" label="Via22"/>
+  </connector>
+  <connector id="connector18" name="pin19">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector18" name="pin19">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector6" name="pin7">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector22" name="pin23">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector22" name="pin23">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="854138242" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854138240" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854134171" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854134170" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector21" name="pin22">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector21" name="pin22">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854137662" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854137660" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="via">
+   <part id="854185251" title="Via" label="Via23"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185250" title="Via" label="Via23"/>
+  </connector>
+  <connector id="connector19" name="pin20">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector19" name="pin20">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854137842" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854137840" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854134171" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854134170" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854138202" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854138200" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854138022" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138020" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector8" name="pin9">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector8" name="pin9">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854133801" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854133800" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138022" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138020" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="854137842" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854137840" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854138022" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854138020" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector9" name="pin10">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector9" name="pin10">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector9" name="pin10">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector9" name="pin10">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="854138202" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854138200" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854134171" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854134170" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="pin5">
+   <part id="854133801" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854133800" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138022" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138020" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="pin4">
+   <part id="854134171" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854134170" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854138222" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854138220" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="854133801" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854133800" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854137842" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854137840" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector23" name="pin24">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector23" name="pin24">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="via">
+   <part id="854181681" title="Via" label="Via11"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854181680" title="Via" label="Via11"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184441" title="Via" label="Via19"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184440" title="Via" label="Via19"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854180050" title="Via" label="Via5"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854180051" title="Via" label="Via5"/>
+  </connector>
+  <connector id="connector12" name="pin13">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector12" name="pin13">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector7" name="pin8">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854186031" title="Via" label="Via31"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854186030" title="Via" label="Via31"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185420" title="Via" label="Via24"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185421" title="Via" label="Via24"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185161" title="Via" label="Via20"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185160" title="Via" label="Via20"/>
+  </connector>
+  <connector id="connector16" name="pin17">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector16" name="pin17">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="854137662" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854137660" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="854138022" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138020" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector11" name="pin12">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector11" name="pin12">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="via">
+   <part id="854180081" title="Via" label="Via6"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854180080" title="Via" label="Via6"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854183631" title="Via" label="Via14"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854183630" title="Via" label="Via14"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854181650" title="Via" label="Via10"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854181651" title="Via" label="Via10"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854183710" title="Via" label="Via15"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854183711" title="Via" label="Via15"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184411" title="Via" label="Via18"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184410" title="Via" label="Via18"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector13" name="pin14">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector13" name="pin14">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854138242" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854138240" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854134171" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854134170" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="pin5">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854137662" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854137660" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector10" name="pin11">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector10" name="pin11">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854138022" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854138020" title="Generic male header - 6 pins" label="J1"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="via">
+   <part id="854185191" title="Via" label="Via21"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185190" title="Via" label="Via21"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185481" title="Via" label="Via26"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854185480" title="Via" label="Via26"/>
+  </connector>
+  <connector id="connector17" name="pin18">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector17" name="pin18">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854186000" title="Via" label="Via30"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854186001" title="Via" label="Via30"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="pin5">
+   <part id="854137662" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854137660" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854133801" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854133800" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="pin4">
+   <part id="854133801" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854133800" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854137662" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854137660" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="pin5">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector20" name="pin21">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector20" name="pin21">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector10" name="pin11">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector10" name="pin11">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854134171" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854134170" title="Generic male header - 6 pins" label="J13"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854138222" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854138220" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="via">
+   <part id="854184351" title="Via" label="Via16"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184350" title="Via" label="Via16"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854179931" title="Via" label="Via1"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854179930" title="Via" label="Via1"/>
+  </connector>
+  <connector id="connector15" name="pin16">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector15" name="pin16">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854180110" title="Via" label="Via7"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854180111" title="Via" label="Via7"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854179961" title="Via" label="Via2"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854179960" title="Via" label="Via2"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector5" name="pin6">
+   <part id="854137842" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854137840" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854137842" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854137840" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="854133801" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854133800" title="Generic male header - 6 pins" label="J12"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854137842" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854137840" title="Generic male header - 6 pins" label="J4"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="854137662" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854137660" title="Generic male header - 6 pins" label="J3"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="via">
+   <part id="854180141" title="Via" label="Via8"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854180140" title="Via" label="Via8"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854182101" title="Via" label="Via13"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854182100" title="Via" label="Via13"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854181620" title="Via" label="Via9"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854181621" title="Via" label="Via9"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854143360" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854143361" title="Generic double row male header - 8 pins" label="J16"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184381" title="Via" label="Via17"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="854184380" title="Via" label="Via17"/>
+  </connector>
+  <connector id="connector14" name="pin15">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector14" name="pin15">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector11" name="pin12">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector11" name="pin12">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector19" name="pin20">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector19" name="pin20">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138220" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138222" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector16" name="pin17">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector16" name="pin17">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138220" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138222" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector20" name="pin21">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector20" name="pin21">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138240" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138242" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector14" name="pin15">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector14" name="pin15">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138200" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138202" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector13" name="pin14">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector13" name="pin14">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138200" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138202" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector12" name="pin13">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector12" name="pin13">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138200" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854138202" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector21" name="pin22">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector21" name="pin22">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138240" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138242" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector15" name="pin16">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector15" name="pin16">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138200" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138202" title="Generic male header - 6 pins" label="J5"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector18" name="pin19">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector18" name="pin19">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138220" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138222" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector23" name="pin24">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector23" name="pin24">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138240" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854138242" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector22" name="pin23">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector22" name="pin23">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138240" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854138242" title="Generic male header - 6 pins" label="J8"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector17" name="pin18">
+   <part id="854143291" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector17" name="pin18">
+   <part id="854143290" title="Generic double row male header - 24 pins" label="J9"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138220" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854138222" title="Generic male header - 6 pins" label="J6"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector4" name="pin5">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector8" name="pin9">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector8" name="pin9">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector5" name="pin6">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector6" name="pin7">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector4" name="pin5">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="pin4">
+   <part id="854134271" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854134270" title="Generic male header - 8 pins" label="J14"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector7" name="pin8">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="pin4">
+   <part id="854134291" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854134290" title="Generic male header - 8 pins" label="J15"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854165970" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="854165971" title="Generic double row male header - 24 pins" label="J17"/>
+  </connector>
+ </net>
+</netlist>
